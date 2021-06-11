@@ -1,0 +1,11 @@
+<?php
+include_once("register.blade.php");
+include_once("login.blade.php");
+include_once("web.php");
+include_once("MainController.php");
+include_once("AuthCheck.php");
+include_once("AboutUs.html");
+include_once("dashboard.blade.php");
+include_once("Admin.php");
+include_once("2021_06_11_100855_create_admins_table.php");
+?>
